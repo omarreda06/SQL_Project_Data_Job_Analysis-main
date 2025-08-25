@@ -64,10 +64,6 @@ ORDER BY
 LIMIT 10;
 ```
 
-![Top Paying Roles]
-*Bar graph visualizing the salary for the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results*
-
-
 ### Key Insights from 2023 Top Roles:
 
 - **High Salary Potential:** The top-paying data analyst roles range from $184,000 to $650,000, showing significant earning opportunities.
@@ -75,6 +71,9 @@ LIMIT 10;
 - **Diverse Employers:** Companies such as SmartAsset, Meta, and AT&T feature among the top, reflecting demand across different industries.
 
 - **Varied Job Titles:** Positions range from Data Analyst to Director of Analytics, highlighting a variety of responsibilities and career levels.
+
+![Top Paying Roles](assets/topp_paying%20jobs.png)
+*"Average Salary by Top 10 Highest-Paying Skills for Data Analysts"*
 
 ## 2. Skills for Top-Paying Jobs
 
@@ -130,7 +129,7 @@ INNER JOIN skills_dim
 - **Other** in-demand skills include R, Snowflake, Pandas, and Excel, reflecting a broad technical toolkit required for high-paying roles.
 
 ![Top Paying Skills](assets/top_paying_roles.png)
-*Pie chart visualizing the count of skills for the top 10 paying jobs for data analysts*
+*"Pie chart visualizing the count of skills for the top 10 paying jobs for data analysts"*
 
 ## 3. In-Demand Skills for Data Analysts
 
@@ -166,7 +165,7 @@ LIMIT 5;
 - **Programming and visualization tools** such as **Python, Tableau, and Power BI** are increasingly critical, highlighting the growing demand for technical skills in data storytelling and decision support.
 
 ![Top Paying Skills](assets/Skill_demanded.png)
-*the demand for the top 5 skills in data analyst job postings*
+*"the demand for the top 5 skills in data analyst job postings"*
 
 ## 4. Skills Based on Salary
 This query explores **which skills are associated with the highest average salaries for Data Analyst roles**, helping identify the most financially rewarding capabilities.
@@ -231,7 +230,7 @@ LIMIT 25;
 | gcp           | 122500      |
 | microstrategy | 121619      |
 
-*Table of the average salary for the top 10 paying skills for data analysts*
+*"Table of the average salary for the top 10 paying skills for data analysts"*
 
 ## 5. Most Optimal Skills to Learn
 
@@ -337,7 +336,7 @@ LIMIT 25;
 | 113       | c++        | 11            | 98958       |
 | 186       | sas        | 63            | 98902       |
 | 7         | sas        | 63            | 98902       |
-*Table of the most optimal skills for data analyst sorted by salary*
+*"Table of the most optimal skills for data analyst sorted by salary"*
 
 # What I Learned
 
