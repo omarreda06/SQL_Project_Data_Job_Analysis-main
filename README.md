@@ -129,7 +129,7 @@ INNER JOIN skills_dim
 
 - **Other** in-demand skills include R, Snowflake, Pandas, and Excel, reflecting a broad technical toolkit required for high-paying roles.
 
-![Top Paying Skills](assets\top_paying_roles.png)
+![Top Paying Skills](assets/top_paying_roles.png)
 *Pie chart visualizing the count of skills for the top 10 paying jobs for data analysts*
 
 ## 3. In-Demand Skills for Data Analysts
@@ -165,7 +165,7 @@ LIMIT 5;
 
 - **Programming and visualization tools** such as **Python, Tableau, and Power BI** are increasingly critical, highlighting the growing demand for technical skills in data storytelling and decision support.
 
-![Top Paying Skills](assets\Skill_demanded.png)
+![Top Paying Skills](assets/Skill_demanded.png)
 *the demand for the top 5 skills in data analyst job postings*
 
 ## 4. Skills Based on Salary
